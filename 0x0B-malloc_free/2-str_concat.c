@@ -9,7 +9,7 @@
  * Return: On success, returns a pointer to the concatenated string. If memory
  *         allocation fails, returns NULL.
  *
- * Author: Nour Mellal
+ * Author: Oussama Jamil
  */
 char *str_concat(char *s1, char *s2)
 {

@@ -5,7 +5,7 @@
 * @height: height of the grid
 * Return: pointer to the newly allocated grid or
 * NULL if width or height is <= 0
-* Author: NourMellal
+* Author: Oussama Jamil
 */
 
 int **alloc_grid(int width, int height)
